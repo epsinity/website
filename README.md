@@ -1,6 +1,5 @@
-# Epsinity — Static Website
+# Epsinity — Website 01
 
-Fully editable static recreation of https://eagavenkatphone.wixsite.com/epsinity
 
 ## Structure
 ```
