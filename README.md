@@ -3,7 +3,7 @@
 
 ## Structure
 ```
-epsinity-site/
+epsinity01/
 ├── index.html        ← page content & sections
 ├── css/styles.css    ← all styles (edit CSS variables at top to retheme)
 ├── js/main.js        ← nav toggle, form handler, scroll reveal
