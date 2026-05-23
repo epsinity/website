@@ -8,7 +8,6 @@ epsinity01/
 ├── css/styles.css    ← all styles (edit CSS variables at top to retheme)
 ├── js/main.js        ← nav toggle, form handler, scroll reveal
 ├── images/           ← all image assets (replace freely)
-└── assets/           ← put fonts, icons, downloads here
 ```
 
 ## Run locally
